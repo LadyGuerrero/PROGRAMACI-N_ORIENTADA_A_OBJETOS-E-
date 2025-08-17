@@ -2,20 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>Tareas</groupId>
-<<<<<<< HEAD
-    <artifactId>ImplementacionDeArchivo</artifactId>
-=======
-    <artifactId>TareaSemana7</artifactId>
->>>>>>> 5aa35b56107f1752fce3baf9eb0811719aeee305
+    <artifactId>Semana3</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
-<<<<<<< HEAD
-        <exec.mainClass>tareas.implementaciondearchivo.ImplementacionDeArchivo</exec.mainClass>
-=======
-        <exec.mainClass>tareas.tareasemana7.TareaSemana7</exec.mainClass>
->>>>>>> 5aa35b56107f1752fce3baf9eb0811719aeee305
+        <exec.mainClass>tareas.semana3.Semana3</exec.mainClass>
     </properties>
 </project>
