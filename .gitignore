@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 
+=======
+target/
+*.class
+*.log
+.idea/
+*.iml
+*.jar
+>>>>>>> 368703cd000ca1631d2dad44065513178a176839

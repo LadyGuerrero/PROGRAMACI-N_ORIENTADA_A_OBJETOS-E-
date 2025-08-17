@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola Lucio. Este archivo no esta vacio.
+=======
+Hola, Lady Este archivo no esta vacio.
+>>>>>>> 368703cd000ca1631d2dad44065513178a176839
