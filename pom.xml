@@ -2,12 +2,36 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>Tareas</groupId>
+<<<<<<< HEAD
     <artifactId>Semana12</artifactId>
+=======
+<<<<<<< HEAD
+    <artifactId>CodigoCorregido</artifactId>
+=======
+<<<<<<< HEAD
+    <artifactId>Inventario.Semana10</artifactId>
+=======
+    <artifactId>ImplementarArchivo</artifactId>
+>>>>>>> 3122ea3dc056d66dd3315d76b8df558d4f88ff16
+>>>>>>> 6e9b22d0f9d138d8ff6d99a27f52f112204f9299
+>>>>>>> 1ba648fe759270530023df51deab3b6e14733aa3
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
+<<<<<<< HEAD
         <exec.mainClass>Semana12</exec.mainClass>
+=======
+<<<<<<< HEAD
+        <exec.mainClass>tareas.codigocorregido.CodigoCorregido</exec.mainClass>
+=======
+<<<<<<< HEAD
+        <exec.mainClass>semana10.InventarioSemana10</exec.mainClass>
+=======
+        <exec.mainClass>ImplementarArchivo</exec.mainClass>
+>>>>>>> 3122ea3dc056d66dd3315d76b8df558d4f88ff16
+>>>>>>> 6e9b22d0f9d138d8ff6d99a27f52f112204f9299
+>>>>>>> 1ba648fe759270530023df51deab3b6e14733aa3
     </properties>
 </project>
