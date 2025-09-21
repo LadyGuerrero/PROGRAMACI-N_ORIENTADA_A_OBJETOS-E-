@@ -1,1 +1,40 @@
+<<<<<<< HEAD
 tareas\agendapersonal\AgendaPersonal.class
+=======
+<<<<<<< HEAD
+tareas\tareasemana12\Libro.class
+tareas\tareasemana12\TareaSemana12.class
+tareas\tareasemana12\Usuario.class
+tareas\tareasemana12\Biblioteca.class
+=======
+<<<<<<< HEAD
+Libro.class
+Biblioteca.class
+Semana12.class
+Usuario.class
+=======
+<<<<<<< HEAD
+tareas\codigocorregido\Alumno.class
+tareas\codigocorregido\CodigoCorregido.class
+=======
+<<<<<<< HEAD
+semana10\Inventario.class
+semana10\InventarioSemana10.class
+semana10\Producto.class
+=======
+<<<<<<< HEAD
+tareasemana9\archivo\GestorDeArchivo.class
+tareasemana9\archivo\ArchivoVacioException.class
+tareasemana9\archivo\ImplementacionDeArchivo.class
+tareasemana9\archivo\ValidadorArchivo.class
+=======
+gestor\ArchivoVacioException.class
+gestor\GestorDeArchivo.class
+gestor\ValidadorArchivo.class
+tareas\implementaciondearchivo\ImplementacionDeArchivo.class
+>>>>>>> 368703cd000ca1631d2dad44065513178a176839
+>>>>>>> 3122ea3dc056d66dd3315d76b8df558d4f88ff16
+>>>>>>> 6e9b22d0f9d138d8ff6d99a27f52f112204f9299
+>>>>>>> 1ba648fe759270530023df51deab3b6e14733aa3
+>>>>>>> 021cfd5dbf44eec1daf7c1f0a4e3b0f48ca95896
+>>>>>>> 84cf83f6e4e0136a49a2742d36e2afbb269f12b9
