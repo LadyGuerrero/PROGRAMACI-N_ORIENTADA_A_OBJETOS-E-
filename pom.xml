@@ -2,12 +2,31 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>Tareas</groupId>
+<<<<<<< HEAD
     <artifactId>TodoApp</artifactId>
+=======
+<<<<<<< HEAD
+    <artifactId>AgendaPersonal</artifactId>
+=======
+    <artifactId>Semana13</artifactId>
+>>>>>>> 84cf83f6e4e0136a49a2742d36e2afbb269f12b9
+>>>>>>> f0839e12524405cad8841aa5c0032508e93753cf
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
+<<<<<<< HEAD
         <exec.mainClass>TodoApp</exec.mainClass>
     </properties>
+=======
+<<<<<<< HEAD
+        <exec.mainClass>tareas.agendapersonal.AgendaPersonal</exec.mainClass>
+    </properties>
+=======
+        <exec.mainClass>tareas.semana13.Semana13</exec.mainClass>
+    </properties>
+    <name>ListaTareasSimple</name>
+>>>>>>> 84cf83f6e4e0136a49a2742d36e2afbb269f12b9
+>>>>>>> f0839e12524405cad8841aa5c0032508e93753cf
 </project>
